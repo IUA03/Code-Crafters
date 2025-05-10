@@ -33,7 +33,7 @@ To tackle this problem, we developed a **Medicine Availability Tracker** with th
 - **Python (smtplib)**: Used for sending OTPs via email to authenticate users.
 - **SSL**: Ensures secure communication during OTP email transmission.
 
-*Note: This project does not use AI. The focus is on building a practical, functional solution to manage pharmacy inventories with secure user authentication.*
+*Note: This project was built **without using any AI help*. The focus is on building a practical, functional solution to manage pharmacy inventories with secure user authentication.*
 
 ### How the App Solves the Problem:
 This application directly addresses the challenges faced by rural pharmacies by providing the following solutions:
